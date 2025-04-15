@@ -13,15 +13,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 34.7 kB Used in GitHub's Storage 
- > 
-> 🏆 48 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,15 +69,15 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-SCSS                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C#                       2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+SCSS                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
 
 
- Last Updated on 15/04/2025 06:45:55 UTC
+ Last Updated on 15/04/2025 18:43:19 UTC
 <!--END_SECTION:waka-->
