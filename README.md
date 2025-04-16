@@ -13,13 +13,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 34.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 49 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,16 +56,17 @@ Sunday                   6 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 24 mins             ██████████████░░░░░░░░░░░   56.35 % 
+Python                   18 mins             ███████████░░░░░░░░░░░░░░   43.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LanQiao                  42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -79,5 +82,5 @@ SCSS                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 15/04/2025 18:43:19 UTC
+ Last Updated on 16/04/2025 18:44:58 UTC
 <!--END_SECTION:waka-->
