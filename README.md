@@ -8,9 +8,9 @@
 Xiaoqiuu/Xiaoqiuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!---
+
 [![Xiaoqiuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaoqiuu)](https://github.com/anuraghazra/github-readme-stats)
---->
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%202%20mins-blue)
