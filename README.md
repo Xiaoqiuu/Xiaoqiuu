@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 113.7 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2025
+> 🏆 134 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,48 +29,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                24 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-🌆 Daytime                28 commits          ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-🌃 Evening                49 commits          ██████████░░░░░░░░░░░░░░░   38.58 % 
-🌙 Night                  26 commits          █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Tuesday                  18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Saturday                 35 commits          ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Sunday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      49 mins             ████████████████░░░░░░░░░   62.39 % 
-Other                    29 mins             █████████░░░░░░░░░░░░░░░░   37.61 % 
-
-🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-workspace                49 mins             ████████████████░░░░░░░░░   62.39 % 
-Unknown Project          29 mins             █████████░░░░░░░░░░░░░░░░   37.61 % 
-
-💻 Operating System: 
-Linux                    49 mins             ████████████████░░░░░░░░░   62.39 % 
-Windows                  29 mins             █████████░░░░░░░░░░░░░░░░   37.61 % 
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -84,5 +42,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2025 18:45:12 UTC
+ Last Updated on 26/09/2025 18:43:30 UTC
 <!--END_SECTION:waka-->
