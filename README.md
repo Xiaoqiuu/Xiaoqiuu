@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,16 +56,16 @@ Sunday                   34 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      29 mins             █████████████████████████   100.00 % 
+C++                      1 hr 14 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-workspace                29 mins             █████████████████████████   100.00 % 
+workspace                1 hr 14 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    29 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -81,5 +81,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2025 18:44:16 UTC
+ Last Updated on 08/11/2025 18:43:02 UTC
 <!--END_SECTION:waka-->
