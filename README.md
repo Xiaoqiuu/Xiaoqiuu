@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2030%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -83,5 +83,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:48:17 UTC
+ Last Updated on 05/01/2026 18:52:58 UTC
 <!--END_SECTION:waka-->
