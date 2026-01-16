@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -56,16 +56,17 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 29 mins        █████████████████████████   100.00 % 
+C++                      1 hr 38 mins        █████████████████████████   99.97 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-workspace                1 hr 29 mins        █████████████████████████   100.00 % 
+workspace                1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,5 +82,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2026 18:59:11 UTC
+ Last Updated on 16/01/2026 18:53:01 UTC
 <!--END_SECTION:waka-->
