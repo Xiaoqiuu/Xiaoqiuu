@@ -56,16 +56,17 @@ Sunday                   91 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 41 mins        █████████████████████████   99.63 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+workspace                1 hr 42 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -81,5 +82,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 19:32:00 UTC
+ Last Updated on 12/02/2026 19:31:45 UTC
 <!--END_SECTION:waka-->
