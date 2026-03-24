@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,16 +56,17 @@ Sunday                   91 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   46 mins             █████████████████████████   100.00 % 
+Python                   46 mins             █████████████████████████   98.16 % 
+RGBDS Assembly           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          46 mins             █████████████████████████   100.00 % 
+Unknown Project          47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -81,5 +82,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2026 19:25:35 UTC
+ Last Updated on 24/03/2026 19:32:59 UTC
 <!--END_SECTION:waka-->
