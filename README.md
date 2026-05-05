@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,17 +56,16 @@ Sunday                   92 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 35 mins       █████████████████████████   99.72 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+C++                      2 hrs 36 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-workspace                3 hrs 35 mins       █████████████████████████   100.00 % 
+workspace                2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -82,5 +81,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2026 19:59:25 UTC
+ Last Updated on 05/05/2026 19:55:45 UTC
 <!--END_SECTION:waka-->
