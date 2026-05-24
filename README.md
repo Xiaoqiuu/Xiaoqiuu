@@ -13,13 +13,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2031%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 345.8 kB Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2026
+> 🏆 60 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,6 +29,45 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                109 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+🌆 Daytime                144 commits         ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+🌃 Evening                146 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌙 Night                  120 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   111 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Tuesday                  105 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Wednesday                43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Thursday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Friday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Saturday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Sunday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      1 hr 19 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+workspace                1 hr 19 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -40,5 +81,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 19:42:07 UTC
+ Last Updated on 24/05/2026 19:45:09 UTC
 <!--END_SECTION:waka-->
