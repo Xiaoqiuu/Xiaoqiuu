@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,16 +56,18 @@ Sunday                   96 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        37 mins             █████████████████████████   98.27 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+workspace                38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -81,5 +83,5 @@ ShaderLab                1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026 19:42:58 UTC
+ Last Updated on 16/07/2026 19:37:50 UTC
 <!--END_SECTION:waka-->
