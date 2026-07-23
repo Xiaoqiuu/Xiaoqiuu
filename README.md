@@ -13,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -56,16 +54,16 @@ Sunday                   96 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        3 hrs 19 mins       █████████████████████████   100.00 % 
+C                        3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-workspace                3 hrs 19 mins       █████████████████████████   100.00 % 
+workspace                3 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -81,5 +79,5 @@ ShaderLab                1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 19:50:32 UTC
+ Last Updated on 23/07/2026 19:52:27 UTC
 <!--END_SECTION:waka-->
