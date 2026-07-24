@@ -27,45 +27,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                109 commits         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-🌆 Daytime                153 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-🌃 Evening                150 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌙 Night                  120 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   111 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Tuesday                  107 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Thursday                 50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Friday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Saturday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Sunday                   96 commits          █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C                        3 hrs 7 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-workspace                3 hrs 7 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs 7 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -79,5 +40,5 @@ ShaderLab                1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:52:27 UTC
+ Last Updated on 24/07/2026 19:52:16 UTC
 <!--END_SECTION:waka-->
