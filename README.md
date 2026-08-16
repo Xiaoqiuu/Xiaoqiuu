@@ -58,17 +58,17 @@ Sunday                   97 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        43 mins             ███████████████████████░░   90.64 % 
-C++                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+C                        20 mins             ███████████████████████░░   93.73 % 
+C++                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-workspace                48 mins             █████████████████████████   100.00 % 
+workspace                21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    48 mins             █████████████████████████   100.00 % 
+Linux                    21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,5 +90,5 @@ ShaderLab                1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 18:52:13 UTC
+ Last Updated on 16/08/2026 18:51:46 UTC
 <!--END_SECTION:waka-->
